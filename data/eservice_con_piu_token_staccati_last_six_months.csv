@@ -1,103 +1,103 @@
 id,name,eserviceid,eserviceName,producerName,tokenCount
-0,Totale,84ff6795-2255-4784-95d8-c4eb4b89a6b5,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,7610229.0
-0,Totale,87fa140e-24ec-4bfa-92b1-4b7cd5997996,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,3682065.0
-0,Totale,592fa08b-3c3b-459a-af7e-ae0330f38eb3,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,476662.0
-0,Totale,cfc8a94d-001a-4ab6-bb5c-2509b2a68af1,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,82692064.0
-0,Totale,fd741918-cac1-4d5f-9437-15b520b4cce3,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,21148202.0
-0,Totale,dfc8c208-813a-4da1-be6c-b20789f6cd93,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,589602.0
-0,Totale,ce093b84-bcb2-4bdd-ae75-0fc1dcf56ce1,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,3502960.0
-0,Totale,28a33c9f-7450-4f66-8776-4db37adab3a5,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,4545334.0
-0,Totale,2d97cffc-27cb-4705-a21d-9e1084aec9e3,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1907322.0
-0,Totale,c0db9916-d66a-4dc5-8ffc-c1e268e20cc4,VCF1 - Verifica Booleana Codice Fiscale ,Agenzia delle Entrate,3930179.0
-1,Altre Pubbliche Amministrazioni locali,84ff6795-2255-4784-95d8-c4eb4b89a6b5,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,398541.0
-1,Altre Pubbliche Amministrazioni locali,87fa140e-24ec-4bfa-92b1-4b7cd5997996,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,469486.0
+0,Totale,87fa140e-24ec-4bfa-92b1-4b7cd5997996,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,3729525.0
+0,Totale,84ff6795-2255-4784-95d8-c4eb4b89a6b5,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,7678418.0
+0,Totale,2d97cffc-27cb-4705-a21d-9e1084aec9e3,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1913934.0
+0,Totale,28a33c9f-7450-4f66-8776-4db37adab3a5,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,4613887.0
+0,Totale,dfc8c208-813a-4da1-be6c-b20789f6cd93,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,602018.0
+0,Totale,ce093b84-bcb2-4bdd-ae75-0fc1dcf56ce1,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,3529131.0
+0,Totale,cfc8a94d-001a-4ab6-bb5c-2509b2a68af1,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,82539682.0
+0,Totale,fd741918-cac1-4d5f-9437-15b520b4cce3,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,21285317.0
+0,Totale,592fa08b-3c3b-459a-af7e-ae0330f38eb3,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,482040.0
+0,Totale,c0db9916-d66a-4dc5-8ffc-c1e268e20cc4,VCF1 - Verifica Booleana Codice Fiscale ,Agenzia delle Entrate,3932857.0
+1,Altre Pubbliche Amministrazioni locali,87fa140e-24ec-4bfa-92b1-4b7cd5997996,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,475118.0
+1,Altre Pubbliche Amministrazioni locali,84ff6795-2255-4784-95d8-c4eb4b89a6b5,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,399472.0
+1,Altre Pubbliche Amministrazioni locali,2d97cffc-27cb-4705-a21d-9e1084aec9e3,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,136430.0
+1,Altre Pubbliche Amministrazioni locali,28a33c9f-7450-4f66-8776-4db37adab3a5,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,77688.0
+1,Altre Pubbliche Amministrazioni locali,dfc8c208-813a-4da1-be6c-b20789f6cd93,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,25410.0
+1,Altre Pubbliche Amministrazioni locali,ce093b84-bcb2-4bdd-ae75-0fc1dcf56ce1,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,12491.0
+1,Altre Pubbliche Amministrazioni locali,cfc8a94d-001a-4ab6-bb5c-2509b2a68af1,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,10598.0
+1,Altre Pubbliche Amministrazioni locali,e9ed562f-cc12-46ab-91e3-e8199bee9728,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,2662.0
+1,Altre Pubbliche Amministrazioni locali,5e023f06-e5d4-4f8a-b7b8-299b97d2abee,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,687.0
 1,Altre Pubbliche Amministrazioni locali,0116d2da-3361-479d-9a93-bb2137c5cc0a,Servizio di collegamento imprese/PDND - Richiesta documenti,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",117.0
-1,Altre Pubbliche Amministrazioni locali,cfc8a94d-001a-4ab6-bb5c-2509b2a68af1,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,10697.0
-1,Altre Pubbliche Amministrazioni locali,dfc8c208-813a-4da1-be6c-b20789f6cd93,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,25049.0
-1,Altre Pubbliche Amministrazioni locali,e9ed562f-cc12-46ab-91e3-e8199bee9728,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,2646.0
-1,Altre Pubbliche Amministrazioni locali,ce093b84-bcb2-4bdd-ae75-0fc1dcf56ce1,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,12308.0
-1,Altre Pubbliche Amministrazioni locali,28a33c9f-7450-4f66-8776-4db37adab3a5,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,76818.0
-1,Altre Pubbliche Amministrazioni locali,2d97cffc-27cb-4705-a21d-9e1084aec9e3,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,134367.0
-1,Altre Pubbliche Amministrazioni locali,5e023f06-e5d4-4f8a-b7b8-299b97d2abee,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,686.0
-2,Aziende sanitarie locali e Strutture di ricovero,84ff6795-2255-4784-95d8-c4eb4b89a6b5,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,3557.0
-2,Aziende sanitarie locali e Strutture di ricovero,87fa140e-24ec-4bfa-92b1-4b7cd5997996,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,51612.0
-2,Aziende sanitarie locali e Strutture di ricovero,dfc8c208-813a-4da1-be6c-b20789f6cd93,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,1430.0
-2,Aziende sanitarie locali e Strutture di ricovero,ce093b84-bcb2-4bdd-ae75-0fc1dcf56ce1,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,1290.0
-2,Aziende sanitarie locali e Strutture di ricovero,28a33c9f-7450-4f66-8776-4db37adab3a5,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,5526.0
+2,Aziende sanitarie locali e Strutture di ricovero,87fa140e-24ec-4bfa-92b1-4b7cd5997996,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,52386.0
+2,Aziende sanitarie locali e Strutture di ricovero,28a33c9f-7450-4f66-8776-4db37adab3a5,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,5607.0
+2,Aziende sanitarie locali e Strutture di ricovero,84ff6795-2255-4784-95d8-c4eb4b89a6b5,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,3599.0
+2,Aziende sanitarie locali e Strutture di ricovero,dfc8c208-813a-4da1-be6c-b20789f6cd93,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,1476.0
+2,Aziende sanitarie locali e Strutture di ricovero,ce093b84-bcb2-4bdd-ae75-0fc1dcf56ce1,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,1306.0
 2,Aziende sanitarie locali e Strutture di ricovero,2d97cffc-27cb-4705-a21d-9e1084aec9e3,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,285.0
 2,Aziende sanitarie locali e Strutture di ricovero,b880a1a7-1ec7-4b3f-9cd8-f28bf3cc2a0d,C006-servizioVerificaDichCittadinanza-approvazione_automatic,Ministero dell'Interno,79.0
-3,Comuni,f978f8b9-de00-45ba-801b-1b4a60b547d9,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,49542.0
-3,Comuni,a308cad0-9bf2-4346-954e-6dde312f9e16,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,4334.0
-3,Comuni,cfc8a94d-001a-4ab6-bb5c-2509b2a68af1,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,82601307.0
-3,Comuni,a152b46b-f330-494d-9845-82c460bc9fcf,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,245174.0
-3,Comuni,2abffc64-7511-40c9-991d-86f282137726,Servizi consultazione Registro Imprese,"Unione Italiana delle Camere di Commercio Industria, Artigianato e Agricoltura",2089.0
-3,Comuni,e9ed562f-cc12-46ab-91e3-e8199bee9728,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,10584.0
-3,Comuni,580f1bbd-9c07-4b15-84cc-c3f51cbbef04,C029-servizioAccertamentoDatiAnagrafici-approvazione_automat,Ministero dell'Interno,4601.0
-3,Comuni,2d97cffc-27cb-4705-a21d-9e1084aec9e3,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1729676.0
-3,Comuni,5e023f06-e5d4-4f8a-b7b8-299b97d2abee,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,85690.0
-3,Comuni,12d5ff12-7894-4c89-bbfc-033418fb1e38,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,11217.0
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,e7d5bac0-7b04-40ae-a7ae-aa094dcc8572,Invio Comunicazioni Obbligatorie - Unilav,Ministero del Lavoro e delle Politiche Sociali,15612.0
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,3ec6f973-36ab-4816-8e96-22ffb512648c,C021-servizioAccertamentoStatoFamiglia,Ministero dell'Interno,143.0
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,8177f7f9-9c7b-4c2e-a810-65880ff8b66b,C017-servizioAccertamentoMatrimonio,Ministero dell'Interno,241.0
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,e144b3be-a690-4686-8c3a-1447698d4137,C018-servizioAccertamentoCittadinanza,Ministero dell'Interno,132.0
+3,Comuni,cfc8a94d-001a-4ab6-bb5c-2509b2a68af1,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,82447871.0
+3,Comuni,2d97cffc-27cb-4705-a21d-9e1084aec9e3,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,1733550.0
+3,Comuni,a152b46b-f330-494d-9845-82c460bc9fcf,C020-servizioAccertamentoResidenza-approvazione_automatica,Ministero dell'Interno,266218.0
+3,Comuni,5e023f06-e5d4-4f8a-b7b8-299b97d2abee,C021-servizioAccertamentoStatoFamiglia-approvazione_automati,Ministero dell'Interno,88490.0
+3,Comuni,f978f8b9-de00-45ba-801b-1b4a60b547d9,C015-servizioAccertamentoGeneralita-approvazione_automatica,Ministero dell'Interno,50357.0
+3,Comuni,12d5ff12-7894-4c89-bbfc-033418fb1e38,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,11957.0
+3,Comuni,e9ed562f-cc12-46ab-91e3-e8199bee9728,C001–servizioNotifica-approvazione_automatica,Ministero dell'Interno,10712.0
+3,Comuni,580f1bbd-9c07-4b15-84cc-c3f51cbbef04,C029-servizioAccertamentoDatiAnagrafici-approvazione_automat,Ministero dell'Interno,4587.0
+3,Comuni,a308cad0-9bf2-4346-954e-6dde312f9e16,C018-servizioAccertamentoCittadinanza-approvazione_automatic,Ministero dell'Interno,4379.0
+3,Comuni,0fe42ce3-ba29-46aa-bc2a-628d5972b322,C016-servizioAccertamentoDichDecesso-approvazione_automatica,Ministero dell'Interno,2102.0
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,e7d5bac0-7b04-40ae-a7ae-aa094dcc8572,Invio Comunicazioni Obbligatorie - Unilav,Ministero del Lavoro e delle Politiche Sociali,15812.0
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,6ee0e5c9-1382-40fc-ad1b-2f185abec256,C019-servizioAccertamentoEsistenzaVita,Ministero dell'Interno,2099.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,c80fc0c7-e532-4222-bab3-478bb311be4b,arch-common-service_SDG,Agenzia per L'Italia Digitale,589.0
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,6ee0e5c9-1382-40fc-ad1b-2f185abec256,C019-servizioAccertamentoEsistenzaVita,Ministero dell'Interno,2096.0
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,8fe27f7f-b559-4c51-90b6-a4d6eae4ae01,C020-servizioAccertamentoResidenza,Ministero dell'Interno,147.0
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,bfc9fb06-8886-45a4-9ce9-bc93264958ce,C015-servizioAccertamentoGeneralita,Ministero dell'Interno,236.0
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,8177f7f9-9c7b-4c2e-a810-65880ff8b66b,C017-servizioAccertamentoMatrimonio,Ministero dell'Interno,244.0
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,bfc9fb06-8886-45a4-9ce9-bc93264958ce,C015-servizioAccertamentoGeneralita,Ministero dell'Interno,239.0
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,724b2695-6453-4095-ad75-9f81a5a3b190,C016-servizioAccertamentoDichDecesso,Ministero dell'Interno,153.0
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,8fe27f7f-b559-4c51-90b6-a4d6eae4ae01,C020-servizioAccertamentoResidenza,Ministero dell'Interno,150.0
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,3ec6f973-36ab-4816-8e96-22ffb512648c,C021-servizioAccertamentoStatoFamiglia,Ministero dell'Interno,143.0
+4,Enti Nazionali di Previdenza ed Assistenza Sociale,e144b3be-a690-4686-8c3a-1447698d4137,C018-servizioAccertamentoCittadinanza,Ministero dell'Interno,135.0
 4,Enti Nazionali di Previdenza ed Assistenza Sociale,2d97cffc-27cb-4705-a21d-9e1084aec9e3,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,44.0
-4,Enti Nazionali di Previdenza ed Assistenza Sociale,724b2695-6453-4095-ad75-9f81a5a3b190,C016-servizioAccertamentoDichDecesso,Ministero dell'Interno,150.0
-5,Province e Città Metropolitane,84ff6795-2255-4784-95d8-c4eb4b89a6b5,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,1486.0
-5,Province e Città Metropolitane,87fa140e-24ec-4bfa-92b1-4b7cd5997996,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,13846.0
-5,Province e Città Metropolitane,fbbd2458-4dbc-42ec-af6a-10f0d7c66fa0,RL-Cartografia DB Limiti Amministrativi-M1918,Regione Liguria,9.0
-5,Province e Città Metropolitane,cfc8a94d-001a-4ab6-bb5c-2509b2a68af1,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,474.0
-5,Province e Città Metropolitane,e02dce7c-6090-4b17-8cf1-a9ad72126c72,RL-Sigmater Consultazione Soggetti,Regione Liguria,4.0
+5,Province e Città Metropolitane,87fa140e-24ec-4bfa-92b1-4b7cd5997996,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,13984.0
+5,Province e Città Metropolitane,2d97cffc-27cb-4705-a21d-9e1084aec9e3,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,3577.0
+5,Province e Città Metropolitane,28a33c9f-7450-4f66-8776-4db37adab3a5,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,1619.0
+5,Province e Città Metropolitane,84ff6795-2255-4784-95d8-c4eb4b89a6b5,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,1498.0
+5,Province e Città Metropolitane,cfc8a94d-001a-4ab6-bb5c-2509b2a68af1,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,477.0
+5,Province e Città Metropolitane,ce093b84-bcb2-4bdd-ae75-0fc1dcf56ce1,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,345.0
 5,Province e Città Metropolitane,dfc8c208-813a-4da1-be6c-b20789f6cd93,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,233.0
+5,Province e Città Metropolitane,fbbd2458-4dbc-42ec-af6a-10f0d7c66fa0,RL-Cartografia DB Limiti Amministrativi-M1918,Regione Liguria,9.0
 5,Province e Città Metropolitane,06d920df-e34f-4050-9c3b-ee5b61e6ec5f,ARPAL-SIMPA Dati Impianto,Regione Liguria,8.0
-5,Province e Città Metropolitane,ce093b84-bcb2-4bdd-ae75-0fc1dcf56ce1,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,341.0
-5,Province e Città Metropolitane,28a33c9f-7450-4f66-8776-4db37adab3a5,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,1606.0
-5,Province e Città Metropolitane,2d97cffc-27cb-4705-a21d-9e1084aec9e3,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,3550.0
-6,Altre Pubbliche Amministrazioni Centrali,36e210c7-0da5-481c-904e-6f47fda61ed1,evidence-broker_SDG,Agenzia per L'Italia Digitale,349.0
-6,Altre Pubbliche Amministrazioni Centrali,cf4d0c60-0e9a-43bf-9f1a-462c755bc108,service-catalogue_SDG,Agenzia per L'Italia Digitale,665.0
+5,Province e Città Metropolitane,e02dce7c-6090-4b17-8cf1-a9ad72126c72,RL-Sigmater Consultazione Soggetti,Regione Liguria,4.0
+6,Altre Pubbliche Amministrazioni Centrali,cf4d0c60-0e9a-43bf-9f1a-462c755bc108,service-catalogue_SDG,Agenzia per L'Italia Digitale,670.0
+6,Altre Pubbliche Amministrazioni Centrali,36e210c7-0da5-481c-904e-6f47fda61ed1,evidence-broker_SDG,Agenzia per L'Italia Digitale,352.0
 6,Altre Pubbliche Amministrazioni Centrali,c80fc0c7-e532-4222-bab3-478bb311be4b,arch-common-service_SDG,Agenzia per L'Italia Digitale,3.0
-7,Regioni e Province Autonome,e7d5bac0-7b04-40ae-a7ae-aa094dcc8572,Invio Comunicazioni Obbligatorie - Unilav,Ministero del Lavoro e delle Politiche Sociali,8174.0
-7,Regioni e Province Autonome,84ff6795-2255-4784-95d8-c4eb4b89a6b5,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,46583.0
-7,Regioni e Province Autonome,87fa140e-24ec-4bfa-92b1-4b7cd5997996,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,15141.0
-7,Regioni e Province Autonome,dfc8c208-813a-4da1-be6c-b20789f6cd93,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,14934.0
-7,Regioni e Province Autonome,8fe27f7f-b559-4c51-90b6-a4d6eae4ae01,C020-servizioAccertamentoResidenza,Ministero dell'Interno,16387.0
-7,Regioni e Province Autonome,c0e26d8d-ac9c-4fb4-b960-edc335db4338,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,5624.0
-7,Regioni e Province Autonome,ce093b84-bcb2-4bdd-ae75-0fc1dcf56ce1,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,35028.0
-7,Regioni e Province Autonome,28a33c9f-7450-4f66-8776-4db37adab3a5,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,48565.0
-7,Regioni e Province Autonome,2d97cffc-27cb-4705-a21d-9e1084aec9e3,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,33648.0
+7,Regioni e Province Autonome,28a33c9f-7450-4f66-8776-4db37adab3a5,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,49368.0
+7,Regioni e Province Autonome,84ff6795-2255-4784-95d8-c4eb4b89a6b5,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,47151.0
+7,Regioni e Province Autonome,ce093b84-bcb2-4bdd-ae75-0fc1dcf56ce1,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,35203.0
+7,Regioni e Province Autonome,2d97cffc-27cb-4705-a21d-9e1084aec9e3,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,33668.0
+7,Regioni e Province Autonome,8fe27f7f-b559-4c51-90b6-a4d6eae4ae01,C020-servizioAccertamentoResidenza,Ministero dell'Interno,16445.0
+7,Regioni e Province Autonome,87fa140e-24ec-4bfa-92b1-4b7cd5997996,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,15366.0
+7,Regioni e Province Autonome,dfc8c208-813a-4da1-be6c-b20789f6cd93,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,15216.0
+7,Regioni e Province Autonome,e7d5bac0-7b04-40ae-a7ae-aa094dcc8572,Invio Comunicazioni Obbligatorie - Unilav,Ministero del Lavoro e delle Politiche Sociali,8355.0
+7,Regioni e Province Autonome,c0e26d8d-ac9c-4fb4-b960-edc335db4338,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,5699.0
 7,Regioni e Province Autonome,50ca2a3a-40ac-49b6-b1fc-0f22582fb218,PCP – CodeList,Autorita' Nazionale Anticorruzione - A.N.AC.,2366.0
 8,Scuole,,,,
-9,Stazioni Appaltanti e Gestori di pubblici servizi,84ff6795-2255-4784-95d8-c4eb4b89a6b5,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,5166087.0
-9,Stazioni Appaltanti e Gestori di pubblici servizi,87fa140e-24ec-4bfa-92b1-4b7cd5997996,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,2568008.0
-9,Stazioni Appaltanti e Gestori di pubblici servizi,592fa08b-3c3b-459a-af7e-ae0330f38eb3,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,400109.0
-9,Stazioni Appaltanti e Gestori di pubblici servizi,579dcb3b-cc97-43dc-8080-64855408dd26,C001–servizioNotifica,Ministero dell'Interno,314308.0
-9,Stazioni Appaltanti e Gestori di pubblici servizi,cfc8a94d-001a-4ab6-bb5c-2509b2a68af1,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,79586.0
-9,Stazioni Appaltanti e Gestori di pubblici servizi,dfc8c208-813a-4da1-be6c-b20789f6cd93,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,326501.0
-9,Stazioni Appaltanti e Gestori di pubblici servizi,c0e26d8d-ac9c-4fb4-b960-edc335db4338,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,32359.0
-9,Stazioni Appaltanti e Gestori di pubblici servizi,ce093b84-bcb2-4bdd-ae75-0fc1dcf56ce1,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,935238.0
-9,Stazioni Appaltanti e Gestori di pubblici servizi,28a33c9f-7450-4f66-8776-4db37adab3a5,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,2613579.0
-9,Stazioni Appaltanti e Gestori di pubblici servizi,2d97cffc-27cb-4705-a21d-9e1084aec9e3,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,5651.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,84ff6795-2255-4784-95d8-c4eb4b89a6b5,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,5206780.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,28a33c9f-7450-4f66-8776-4db37adab3a5,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,2650439.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,87fa140e-24ec-4bfa-92b1-4b7cd5997996,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,2601716.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,ce093b84-bcb2-4bdd-ae75-0fc1dcf56ce1,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,950417.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,592fa08b-3c3b-459a-af7e-ae0330f38eb3,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,404006.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,dfc8c208-813a-4da1-be6c-b20789f6cd93,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,332936.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,579dcb3b-cc97-43dc-8080-64855408dd26,C001–servizioNotifica,Ministero dell'Interno,317104.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,cfc8a94d-001a-4ab6-bb5c-2509b2a68af1,SEND - Servizio Notifiche Digitali,PagoPa S.p.A.,80736.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,c0e26d8d-ac9c-4fb4-b960-edc335db4338,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,32639.0
+9,Stazioni Appaltanti e Gestori di pubblici servizi,2d97cffc-27cb-4705-a21d-9e1084aec9e3,INAD CONSULTAZIONE DD,Agenzia per L'Italia Digitale,6268.0
 10,Università e AFAM,,,,
-11,Enti privati,84ff6795-2255-4784-95d8-c4eb4b89a6b5,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,1993052.0
-11,Enti privati,87fa140e-24ec-4bfa-92b1-4b7cd5997996,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,563616.0
-11,Enti privati,a5549d0a-0580-490c-9441-525f90a2259f,PCP - FVA,Autorita' Nazionale Anticorruzione - A.N.AC.,50960.0
-11,Enti privati,592fa08b-3c3b-459a-af7e-ae0330f38eb3,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,76536.0
-11,Enti privati,fd741918-cac1-4d5f-9437-15b520b4cce3,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,21147829.0
-11,Enti privati,dfc8c208-813a-4da1-be6c-b20789f6cd93,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,221393.0
-11,Enti privati,c0e26d8d-ac9c-4fb4-b960-edc335db4338,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,40320.0
-11,Enti privati,ce093b84-bcb2-4bdd-ae75-0fc1dcf56ce1,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,2518615.0
-11,Enti privati,28a33c9f-7450-4f66-8776-4db37adab3a5,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,1797732.0
-11,Enti privati,8f429cfa-e39f-46d2-9f53-e945e31ffdc5,PCP - Pianificazione appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,4038.0
-12,Pubbliche Amministrazioni Centrali,722caa4b-1410-445b-b8ae-c9c79acaff34,CNF-CheckAvv,Consiglio Nazionale Forense,123135.0
-12,Pubbliche Amministrazioni Centrali,05045f01-3217-47bd-b5d2-5dfd9cfdf20e,C029-servizioAccertamentoDatiAnagrafici - Inad,Ministero dell'Interno,32519.0
-12,Pubbliche Amministrazioni Centrali,36e210c7-0da5-481c-904e-6f47fda61ed1,evidence-broker_SDG,Agenzia per L'Italia Digitale,30689.0
-12,Pubbliche Amministrazioni Centrali,385c6297-4be0-4ac5-8820-9135241737ad,VCFANAPF1 - Verifica Corrispondenza CF e Dati Anagrafici PF,Agenzia delle Entrate,4896.0
-12,Pubbliche Amministrazioni Centrali,49cb628f-be12-4eb5-8c3a-e469db43440b,ANPR API INTEGRAZIONE INAD,Ministero dell'Interno,38786.0
-12,Pubbliche Amministrazioni Centrali,cf4d0c60-0e9a-43bf-9f1a-462c755bc108,service-catalogue_SDG,Agenzia per L'Italia Digitale,8459.0
-12,Pubbliche Amministrazioni Centrali,fc0160de-6db7-414b-805d-e3670394c107,Comunicazioni Obbligatorie,Istituto Nazionale Previdenza Sociale - INPS,68925.0
-12,Pubbliche Amministrazioni Centrali,6ee0e5c9-1382-40fc-ad1b-2f185abec256,C019-servizioAccertamentoEsistenzaVita,Ministero dell'Interno,60226.0
-12,Pubbliche Amministrazioni Centrali,c0db9916-d66a-4dc5-8ffc-c1e268e20cc4,VCF1 - Verifica Booleana Codice Fiscale ,Agenzia delle Entrate,3930166.0
-12,Pubbliche Amministrazioni Centrali,12d5ff12-7894-4c89-bbfc-033418fb1e38,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,39128.0
+11,Enti privati,fd741918-cac1-4d5f-9437-15b520b4cce3,C019-servizioAccertamentoEsistenzaVita-approvazione_automati,Ministero dell'Interno,21284944.0
+11,Enti privati,ce093b84-bcb2-4bdd-ae75-0fc1dcf56ce1,PCP - Pubblica avviso,Autorita' Nazionale Anticorruzione - A.N.AC.,2529226.0
+11,Enti privati,84ff6795-2255-4784-95d8-c4eb4b89a6b5,PCP – Comunica appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,2018967.0
+11,Enti privati,28a33c9f-7450-4f66-8776-4db37adab3a5,PCP - Servizi comuni,Autorita' Nazionale Anticorruzione - A.N.AC.,1827623.0
+11,Enti privati,87fa140e-24ec-4bfa-92b1-4b7cd5997996,AUSA - Anagrafe Unica delle Stazioni Appaltanti,Autorita' Nazionale Anticorruzione - A.N.AC.,570591.0
+11,Enti privati,dfc8c208-813a-4da1-be6c-b20789f6cd93,PCP - Comunica post pubblicazione,Autorita' Nazionale Anticorruzione - A.N.AC.,226680.0
+11,Enti privati,592fa08b-3c3b-459a-af7e-ae0330f38eb3,PCP - FVC,Autorita' Nazionale Anticorruzione - A.N.AC.,78017.0
+11,Enti privati,a5549d0a-0580-490c-9441-525f90a2259f,PCP - FVA,Autorita' Nazionale Anticorruzione - A.N.AC.,51485.0
+11,Enti privati,c0e26d8d-ac9c-4fb4-b960-edc335db4338,PCP - Gestione utenti,Autorita' Nazionale Anticorruzione - A.N.AC.,42180.0
+11,Enti privati,8f429cfa-e39f-46d2-9f53-e945e31ffdc5,PCP - Pianificazione appalto,Autorita' Nazionale Anticorruzione - A.N.AC.,4067.0
+12,Pubbliche Amministrazioni Centrali,c0db9916-d66a-4dc5-8ffc-c1e268e20cc4,VCF1 - Verifica Booleana Codice Fiscale ,Agenzia delle Entrate,3932844.0
+12,Pubbliche Amministrazioni Centrali,722caa4b-1410-445b-b8ae-c9c79acaff34,CNF-CheckAvv,Consiglio Nazionale Forense,123444.0
+12,Pubbliche Amministrazioni Centrali,fc0160de-6db7-414b-805d-e3670394c107,Comunicazioni Obbligatorie,Istituto Nazionale Previdenza Sociale - INPS,69357.0
+12,Pubbliche Amministrazioni Centrali,6ee0e5c9-1382-40fc-ad1b-2f185abec256,C019-servizioAccertamentoEsistenzaVita,Ministero dell'Interno,61470.0
+12,Pubbliche Amministrazioni Centrali,12d5ff12-7894-4c89-bbfc-033418fb1e38,C030-servizioAccertamentoIdUnicoNazionale-approvazione_autom,Ministero dell'Interno,39227.0
+12,Pubbliche Amministrazioni Centrali,49cb628f-be12-4eb5-8c3a-e469db43440b,ANPR API INTEGRAZIONE INAD,Ministero dell'Interno,38799.0
+12,Pubbliche Amministrazioni Centrali,05045f01-3217-47bd-b5d2-5dfd9cfdf20e,C029-servizioAccertamentoDatiAnagrafici - Inad,Ministero dell'Interno,32528.0
+12,Pubbliche Amministrazioni Centrali,36e210c7-0da5-481c-904e-6f47fda61ed1,evidence-broker_SDG,Agenzia per L'Italia Digitale,30946.0
+12,Pubbliche Amministrazioni Centrali,cf4d0c60-0e9a-43bf-9f1a-462c755bc108,service-catalogue_SDG,Agenzia per L'Italia Digitale,8509.0
+12,Pubbliche Amministrazioni Centrali,385c6297-4be0-4ac5-8820-9135241737ad,VCFANAPF1 - Verifica Corrispondenza CF e Dati Anagrafici PF,Agenzia delle Entrate,4906.0
