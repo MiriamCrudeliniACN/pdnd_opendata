@@ -1,1 +1,22 @@
-[{"name": "Totale enti", "totalCount": 8564, "lastMonthCount": 61.0, "variation": 0.6}, {"name": "Enti privati", "totalCount": 162, "lastMonthCount": 2.0, "variation": 1.2}, {"name": "Enti pubblici", "totalCount": 8402, "lastMonthCount": 59.0, "variation": 0.6}, {"name": "Altri enti pubblici", "totalCount": 988, "lastMonthCount": 18.0, "variation": 28.0}, {"name": "Comuni", "totalCount": 7227, "lastMonthCount": 41.0, "variation": 0.5}, {"name": "Regioni e Province Autonome", "totalCount": 21, "lastMonthCount": 0.0, "variation": 0.0}, {"name": "Università e AFAM", "totalCount": 166, "lastMonthCount": 0.0, "variation": 0.0}]
+
+# Totale richieste di accesso
+
+## Aggiornamento dati
+
+- Quotidiano, alle 6:45 (UTC).
+
+## Formato dati
+
+**Reference file:**
+
+- aderenti.csv<br>
+
+| Campo          | Tipo di dati | Descrizione                                                   | Formato |
+| -------------- | ------------ | ------------------------------------------------------------- | ------- |
+| id             | string       | Id dell'ente interno a PDND Interoperabilità                  |         |
+| name           | string       | Denominazione dell'ente                                       |         |
+| fiscalCode     | string       | Codice fiscale dell'ente (se non presente nell'indice IPA)    |         |
+| ipaCode        | string       | Codice IPA dell'ente (se presente nell'indice IPA)            |         |
+| attributes     | array        | Attributi posseduti dall'ente su PDND Interoperabilità        |         |
+
+Questi dati sono disponibili anche in formato json.
