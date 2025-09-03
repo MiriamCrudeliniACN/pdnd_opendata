@@ -1,22 +1,39 @@
-
-# Totale richieste di accesso
-
-## Aggiornamento dati
-
-- Quotidiano, alle 6:45 (UTC).
-
-## Formato dati
-
-**Reference file:**
-
-- aderenti.csv<br>
-
-| Campo          | Tipo di dati | Descrizione                                                   | Formato |
-| -------------- | ------------ | ------------------------------------------------------------- | ------- |
-| id             | string       | Id dell'ente interno a PDND Interoperabilità                  |         |
-| name           | string       | Denominazione dell'ente                                       |         |
-| fiscalCode     | string       | Codice fiscale dell'ente (se non presente nell'indice IPA)    |         |
-| ipaCode        | string       | Codice IPA dell'ente (se presente nell'indice IPA)            |         |
-| attributes     | array        | Attributi posseduti dall'ente su PDND Interoperabilità        |         |
-
-Questi dati sono disponibili anche in formato json.
+date,count
+2022-07-02,1
+2022-08-02,8
+2022-10-02,9
+2022-11-02,21
+2022-12-02,84
+2023-01-02,104
+2023-02-02,159
+2023-03-02,247
+2023-04-02,324
+2023-05-02,397
+2023-06-02,500
+2023-07-02,966
+2023-08-02,1627
+2023-09-02,2145
+2023-10-02,3165
+2023-11-02,3912
+2023-12-02,4577
+2024-01-02,4964
+2024-02-02,5456
+2024-03-02,5816
+2024-04-02,6157
+2024-05-02,6391
+2024-06-02,6635
+2024-07-02,6803
+2024-08-02,6936
+2024-09-02,6995
+2024-10-02,7144
+2024-11-02,7390
+2024-12-02,7532
+2025-01-02,7659
+2025-02-02,7784
+2025-03-02,7898
+2025-04-02,8045
+2025-05-02,8134
+2025-06-02,8278
+2025-07-02,8391
+2025-08-02,8510
+2025-09-02,8564
