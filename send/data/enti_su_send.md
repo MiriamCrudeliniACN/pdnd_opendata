@@ -1,7 +1,7 @@
 
 # Enti aderenti a SEND per anno
 
-xxx
+Il file riporta il numero di enti che hanno inviato almeno una notifica su SEND da sempre, per anno e complessivamente.
 
 ## Aggiornamento dati
 
