@@ -1,7 +1,7 @@
 
 # Andamento del numero di avvisi inviati
 
-Messaggi che informano quando è presente una notifica SEND da leggere, inviati tramite App IO o altri canali.
+Il file riporta il numero di messaggi di cortesia inviati tramite App IO o altri canali, per una notifica SEND da leggere.
 
 ## Aggiornamento dati
 
