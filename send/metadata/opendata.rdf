@@ -161,7 +161,7 @@
   <dct:license/>
   <dct:title>SEND - Enti aderenti a SEND per anno</dct:title>
   <dct:landingpage>https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/enti_su_send.csv</dct:landingpage>
-  <dct:description>Numero di enti aderenti che hanno inviato almeno una notifica SEND dall'avvio del servizio</dct:description>
+  <dct:description>Numero di enti aderenti che hanno inviato almeno una notifica SEND</dct:description>
   <dct:identifier>5N2TR557:enti_su_send</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
@@ -202,7 +202,7 @@
   <dct:license/>
   <dct:title>SEND - Andamento del numero di avvisi inviati</dct:title>
   <dct:landingpage>https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/messaggi_di_cortesia.csv</dct:landingpage>
-  <dct:description>Messaggi che informano quando è presente una notifica SEND da leggere, inviati tramite App IO o altri canali</dct:description>
+  <dct:description>Numero di avvisi inviati per notifiche SEND</dct:description>
   <dct:identifier>5N2TR557:messaggi_di_cortesia</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
