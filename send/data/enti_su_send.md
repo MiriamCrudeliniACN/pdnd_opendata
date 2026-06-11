@@ -1,7 +1,7 @@
 
 # Enti aderenti a SEND per anno
 
-Il file riporta il numero di enti che hanno inviato almeno una notifica su SEND da sempre. Il dato è sugli ultimi 3 anni, e con un valore complessivo su tutto lo storico.
+Il file riporta il numero di enti che hanno inviato almeno una notifica su SEND. Il dato è sugli ultimi 3 anni, e con un valore complessivo su tutto lo storico.
 
 ## Aggiornamento dati
 
