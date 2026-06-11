@@ -1,7 +1,7 @@
 
 # Andamento del numero di avvisi inviati
 
-Il file riporta il numero di messaggi di cortesia inviati tramite App IO o altri canali, per una notifica SEND da leggere.
+Il file riporta il numero di avvisi inviati tramite App IO o altri canali, per notifiche SEND da leggere. Il dato è sugli ultimi 3 anni e un valore complessivo su tutto lo storico.
 
 ## Aggiornamento dati
 
