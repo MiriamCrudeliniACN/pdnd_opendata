@@ -1,3 +1,9 @@
+## Changes on 2026-07-01 16:13 UTC
+
+### Created
+
+- `notifiche_per_macrocategoria.md`
+
 ## Changes on 2026-06-09 10:43 UTC
 
 ### Created
