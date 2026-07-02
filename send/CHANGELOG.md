@@ -1,3 +1,11 @@
+## Changes on 2026-07-02 12:54 UTC
+
+### Created
+
+- `notifiche_per_categoria.csv`
+- `notifiche_per_categoria.json`
+- `notifiche_per_categoria.md`
+
 ## Changes on 2026-07-01 16:13 UTC
 
 ### Created
