@@ -18,5 +18,6 @@ Il file riporta il numero di notifiche SEND (Servizio Notifiche Digitali) inviat
 | anno                  | string       | Anno di notifica                          | YYYY    |
 | categoria             | string       | Categoria ente mittente                   |         |
 | notifiiche_inviate    | integer      | Numero di notifiche totali inviate        |         |
+| ranking               | integer      | Ranking                                   | [1;10]  |
 
 Questi dati sono disponibili anche in formato json.
