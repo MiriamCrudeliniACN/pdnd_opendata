@@ -20,14 +20,14 @@
       <dct:title>Data Theme Vocabulary</dct:title>
     </skos:ConceptScheme>
   </dcat:themeTaxonomy>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-01</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-01</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-02</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-02</dct:issued>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
   <dcat:dataset rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/notifiche_per_mese.md"/>
 <dcat:dataset rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/distribuzione_geografica_comuni.md"/>
 <dcat:dataset rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/distribuzione_ambiti_notifiche.md"/>
 <dcat:dataset rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/enti_su_send.md"/>
-<dcat:dataset rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/notifiche_per_macrocategoria.md"/>
+<dcat:dataset rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/notifiche_per_categoria.md"/>
 <dcat:dataset rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/messaggi_di_cortesia.md"/>
 <dcat:dataset rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/distribuzione_atti_notifiche.md"/>
 </dcatapit:Catalog>
@@ -61,8 +61,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-01</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-01</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-02</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-02</dct:issued>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
   <dcat:keyword>SEND</dcat:keyword>
 <dcat:keyword>notifiche-digitali</dcat:keyword>
@@ -102,8 +102,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-01</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-01</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-02</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-02</dct:issued>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
   <dcat:keyword>SEND</dcat:keyword>
 <dcat:keyword>notifiche-digitali</dcat:keyword>
@@ -143,8 +143,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-01</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-01</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-02</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-02</dct:issued>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
   <dcat:keyword>SEND</dcat:keyword>
 <dcat:keyword>notifiche-digitali</dcat:keyword>
@@ -184,8 +184,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-01</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-01</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-02</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-02</dct:issued>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
   <dcat:keyword>SEND</dcat:keyword>
 <dcat:keyword>notifiche-digitali</dcat:keyword>
@@ -197,14 +197,14 @@
 </dcatapit:Dataset>
 
 
-<dcatapit:Dataset rdf:about="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/notifiche_per_macrocategoria.md">
+<dcatapit:Dataset rdf:about="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/notifiche_per_categoria.md">
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
   <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
   <dct:license/>
-  <dct:title>SEND - Macrocategorie di enti su SEND che inviano notifiche</dct:title>
-  <dct:landingpage>https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/notifiche_per_macrocategoria.csv</dct:landingpage>
+  <dct:title>SEND - Categorie di enti su SEND che inviano notifiche</dct:title>
+  <dct:landingpage>https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/notifiche_per_categoria.csv</dct:landingpage>
   <dct:description>Numero di notifiche per categorie di enti aderenti su SEND</dct:description>
-  <dct:identifier>5N2TR557:notifiche_per_macrocategoria</dct:identifier>
+  <dct:identifier>5N2TR557:notifiche_per_categoria</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
   <dct:rightsHolder>
@@ -225,16 +225,16 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-01</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-01</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-02</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-02</dct:issued>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
   <dcat:keyword>SEND</dcat:keyword>
 <dcat:keyword>notifiche-digitali</dcat:keyword>
 <dcat:keyword>notifiche-a-valore-legale</dcat:keyword>
 <dcat:keyword>piattaforma-notifiche</dcat:keyword>
 <dcat:keyword>pnrr</dcat:keyword>
-  <dcat:distribution rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/notifiche_per_macrocategoria.csv"/>
-  <dcat:distribution rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/notifiche_per_macrocategoria.json"/>
+  <dcat:distribution rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/notifiche_per_categoria.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/notifiche_per_categoria.json"/>
 </dcatapit:Dataset>
 
 
@@ -266,8 +266,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-01</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-01</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-02</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-02</dct:issued>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
   <dcat:keyword>SEND</dcat:keyword>
 <dcat:keyword>notifiche-digitali</dcat:keyword>
@@ -307,8 +307,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-01</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-01</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-02</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-07-02</dct:issued>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
   <dcat:keyword>SEND</dcat:keyword>
 <dcat:keyword>notifiche-digitali</dcat:keyword>
@@ -444,8 +444,8 @@
 
 
     
-<dcatapit:Distribution rdf:about="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/notifiche_per_macrocategoria.csv">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/MiriamCrudeliniACN/pdnd_opendata/main/data/notifiche_per_macrocategoria.csv"/>
+<dcatapit:Distribution rdf:about="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/notifiche_per_categoria.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/MiriamCrudeliniACN/pdnd_opendata/main/data/notifiche_per_categoria.csv"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -455,11 +455,11 @@
   </dct:license>
   <dct:format rdf:resource="CSV"/>
   <dct:description>File in formato CSV per l'interoperabilità</dct:description>
-  <dct:title>SEND - Macrocategorie di enti su SEND che inviano notifiche CSV</dct:title>
+  <dct:title>SEND - Categorie di enti su SEND che inviano notifiche CSV</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
-<dcatapit:Distribution rdf:about="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/notifiche_per_macrocategoria.json">
-  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/MiriamCrudeliniACN/pdnd_opendata/main/data/notifiche_per_macrocategoria.json"/>
+<dcatapit:Distribution rdf:about="https://github.com/MiriamCrudeliniACN/pdnd_opendata/tree/main/data/notifiche_per_categoria.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/MiriamCrudeliniACN/pdnd_opendata/main/data/notifiche_per_categoria.json"/>
   <dct:license>
     <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
       <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -469,7 +469,7 @@
   </dct:license>
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
-  <dct:title>SEND - Macrocategorie di enti su SEND che inviano notifiche JSON</dct:title>
+  <dct:title>SEND - Categorie di enti su SEND che inviano notifiche JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
