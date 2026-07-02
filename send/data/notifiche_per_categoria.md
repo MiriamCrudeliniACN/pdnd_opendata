@@ -16,7 +16,7 @@ Il file riporta il numero di notifiche SEND (Servizio Notifiche Digitali) inviat
 | Campo                 | Tipo di dati | Descrizione                               | Formato |
 | -----------------     | ------------ | ----------------------------------------- | ------- |
 | anno                  | string       | Anno di notifica                          | YYYY    |
-| categoria             | string       | Categoria ente                            |         |
+| categoria             | string       | Categoria ente mittente                   |         |
 | notifiiche_inviate    | integer      | Numero di notifiche totali inviate        |         |
 
 Questi dati sono disponibili anche in formato json.
