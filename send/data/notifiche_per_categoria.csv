@@ -1,41 +1,41 @@
 anno,categoria,notifiche_inviate,ranking
-Complessivo,Altri enti territoriali,310960,5
-Complessivo,Comuni,16958610,1
-Complessivo,Enti comunali,14409,9
+Complessivo,Comuni,17003573,1
+Complessivo,Regioni,10872584,2
+Complessivo,Pubbliche amministrazioni centrali,8419720,3
+Complessivo,Riscossori e altro,6004268,4
+Complessivo,Altri enti territoriali,312372,5
+Complessivo,Province,223491,6
+Complessivo,Salute locale,92178,7
 Complessivo,"Ordini, collegi e consigli professionali",17373,8
-Complessivo,Province,222819,6
-Complessivo,Pubbliche amministrazioni centrali,8344294,3
-Complessivo,Regioni,10843472,2
-Complessivo,Riscossori e altro,5987069,4
-Complessivo,Salute locale,90243,7
+Complessivo,Enti comunali,14950,9
 Complessivo,Università,7845,10
-2026,Altri enti territoriali,172557,5
-2026,Comuni,5664560,1
-2026,Enti comunali,14409,8
+2026,Comuni,5709523,1
+2026,Pubbliche amministrazioni centrali,2644251,2
+2026,Regioni,2112873,3
+2026,Riscossori e altro,1814320,4
+2026,Altri enti territoriali,173969,5
+2026,Province,89955,6
+2026,Salute locale,47902,7
+2026,Enti comunali,14950,8
 2026,"Ordini, collegi e consigli professionali",6388,9
-2026,Province,89283,6
-2026,Pubbliche amministrazioni centrali,2568825,2
-2026,Regioni,2083761,3
-2026,Riscossori e altro,1797121,4
 2026,Salute centrale,2930,10
-2026,Salute locale,45967,7
-2025,Altri enti territoriali,124307,5
 2025,Comuni,8746399,1
-2025,Consorzi universitari,2432,10
-2025,"Ordini, collegi e consigli professionali",8938,8
-2025,Province,123131,6
 2025,Pubbliche amministrazioni centrali,3996634,2
 2025,Regioni,3742889,3
 2025,Riscossori e altro,2731443,4
+2025,Altri enti territoriali,124307,5
+2025,Province,123131,6
 2025,Salute locale,34244,7
+2025,"Ordini, collegi e consigli professionali",8938,8
 2025,Università,4762,9
-2024,Altri enti territoriali,14094,5
-2024,Comuni,2467916,2
-2024,Consorzi universitari,12,10
-2024,"Ordini, collegi e consigli professionali",2047,8
-2024,Province,10405,6
-2024,Pubbliche amministrazioni centrali,1774879,3
+2025,Consorzi universitari,2432,10
 2024,Regioni,3439842,1
+2024,Comuni,2467916,2
+2024,Pubbliche amministrazioni centrali,1774879,3
 2024,Riscossori e altro,1223516,4
+2024,Altri enti territoriali,14094,5
+2024,Province,10405,6
 2024,Salute locale,10029,7
+2024,"Ordini, collegi e consigli professionali",2047,8
 2024,Università,1544,9
+2024,Consorzi universitari,12,10
